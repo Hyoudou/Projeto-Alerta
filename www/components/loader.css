@@ -1,6 +1,41 @@
-/**
- * This is an auto-generated code by Monaca JS/CSS Components.
- * Please do not edit by hand.
- */
 
-/*** <GENERATED> ***/
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+
+.container {
+  margin-top: 50px;
+    max-width: 600px; 
+  margin-left: auto; 
+  margin-right: auto;
+  padding: 20px; 
+  background-color: #fff;
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+
+.btn {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #007bff; 
+  color: #fff; 
+  border: none; 
+  transition: background-color 0.3s; 
+}
+
+.btn:hover {
+  background-color: #0056b3; 
+}
+
+
+h2 {
+  text-align: center; 
+  margin-bottom: 20px; 
+
+
+.col-sm {
+  text-align: center; 
+}
